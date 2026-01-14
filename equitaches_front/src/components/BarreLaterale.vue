@@ -53,4 +53,8 @@ export default {};
   height: auto;
   border-radius: 8px;
 }
+.text-purple {
+    color: #faaef4;
+    text-shadow:2px 0 12px #a346c8;
+}
 </style>
